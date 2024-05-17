@@ -1,7 +1,7 @@
 {
     "chain_name": "warden",
     "api": [
-        "http://api-wardenprotocol.onchain.run:1317"
+        "http://api-wardenprotocol.onchain.run"
     ],
     "rpc": [
         "http://rpc-wardenprotocol.onchain.run"
