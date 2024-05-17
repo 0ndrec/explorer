@@ -1,0 +1,21 @@
+{
+    "chain_name": "warden",
+    "api": [
+        "http://api-wardenprotocol.onchain.run"
+    ],
+    "rpc": [
+        "http://rpc-wardenprotocol.onchain.run"
+    ],
+    "coin_type": "118",
+    "sdk_version": "0.46.11",
+    "addr_prefix": "warden",
+    "min_tx_fee": "0.0025uward",
+    "logo": "/logos/warden.png",
+    "assets": [
+        {
+            "symbol": "WARD",
+            "base": "uward",
+            "exponent": 6
+        }
+    ]
+}
