@@ -80,7 +80,7 @@ dayjs()
     >
       <div class="flex justify-between mt-1 py-4 mb-1" style="justify-content: center;">
         <RouterLink to="/" class="flex items-center">
-          <img style="padding-inline: 20px; src="../../assets/logo.svg" />
+          <img style="padding-inline: 20px;" src="../../assets/logo.svg" />
   
         </RouterLink>
         <div
