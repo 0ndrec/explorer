@@ -78,10 +78,10 @@ dayjs()
       class="w-64 fixed z-50 left-0 top-0 bottom-0 overflow-auto bg-base-100 border-r border-gray-100 dark:border-gray-700"
       :class="{ block: sidebarShow, 'hidden xl:!block': !sidebarShow }"
     >
-      <div class="flex justify-between mt-1 pl-4 py-4 mb-1">
+      <div class="flex justify-between mt-1 py-4 mb-1" style="justify-content: center;>
         <RouterLink to="/" class="flex items-center">
-          <img class="w-30 h-10" src="../../assets/logo.svg" />
-          
+          <img style="padding-inline: 20px; src="../../assets/logo.svg" />
+  
         </RouterLink>
         <div
           class="pr-4 cursor-pointer xl:!hidden"
