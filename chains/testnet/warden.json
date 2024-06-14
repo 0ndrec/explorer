@@ -1,10 +1,10 @@
 {
     "chain_name": "warden",
     "api": [
-        "http://api-wardenprotocol.onchain.run"
+        "https://api-wardenprotocol.onchain.run"
     ],
     "rpc": [
-        "http://rpc-wardenprotocol.onchain.run"
+        "https://rpc-wardenprotocol.onchain.run"
     ],
     "coin_type": "118",
     "sdk_version": "0.46.11",
