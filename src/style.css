@@ -38,6 +38,12 @@ html[data-theme='dark'] {
   --bg-active: #242b40;
 }
 
+html.dark.logo-top-main,
+html[data-theme='dark'].logo-top-main {
+  -webkit-filter: unset; /* safari 6.0 - 9.0 */
+          filter: unset;
+}
+
 .table th:first-child {
   position: relative;
   z-index: 2;
