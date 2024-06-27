@@ -20,10 +20,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.logo-top-main {
-  -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
-          filter: invert(100%);
-}
 
 :root {
   --text-main: #333;
@@ -38,10 +34,10 @@ html[data-theme='dark'] {
   --bg-active: #242b40;
 }
 
-html.dark.logo-top-main,
-html[data-theme='dark'].logo-top-main {
-  -webkit-filter: unset; /* safari 6.0 - 9.0 */
-          filter: unset;
+html.light.logo-top-main,
+html[data-theme='light'].logo-top-main {
+  -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
+          filter: invert(100%);
 }
 
 .table th:first-child {
