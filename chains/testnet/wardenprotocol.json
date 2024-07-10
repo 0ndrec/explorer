@@ -11,6 +11,7 @@
     "addr_prefix": "warden",
     "min_tx_fee": "0.0025uward",
     "logo": "/logos/warden.png",
+    "features": ["dashboard", "blocks", "ibc", "cosmwasm", "uptime", "parameters", "state-sync", "consensus", "supply", "widget"],
     "assets": [
         {
             "symbol": "WARD",
