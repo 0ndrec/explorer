@@ -1,0 +1,21 @@
+{
+    "chain_name": "allora-testnet-1",
+    "api": [
+        "https://allora-api.testnet-1.testnet.allora.network"
+    ],
+    "rpc": [
+        "https://allora-rpc.testnet-1.testnet.allora.network/"
+    ],
+    "coin_type": "118",
+    "sdk_version": "0.46.11",
+    "addr_prefix": "allo",
+    "min_tx_fee": "0.0025uallo",
+    "logo": "/logos/allora.png",
+    "assets": [
+        {
+            "symbol": "ALLO",
+            "base": "uallo",
+            "exponent": 18
+        }
+    ]
+}
