@@ -1,10 +1,12 @@
 {
     "chain_name": "allora-testnet-1",
     "api": [
-        "https://allora-api.testnet-1.testnet.allora.network"
+        "https://allora-api.testnet-1.testnet.allora.network",
+        "https://api-allora.onchain.run"
     ],
     "rpc": [
-        "https://allora-rpc.testnet-1.testnet.allora.network/"
+        "https://allora-rpc.testnet-1.testnet.allora.network/",
+        "https://rpc-allora.onchain.run"
     ],
     "coin_type": "118",
     "sdk_version": "0.46.11",
