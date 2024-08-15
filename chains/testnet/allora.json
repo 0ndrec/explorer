@@ -2,6 +2,7 @@
     "chain_name": "allora-testnet-1",
     "api": [
         "https://api-allora.onchain.run",
+"https://sentries-api.testnet-1.testnet.allora.network/",
         "https://allora-api.testnet-1.testnet.allora.network"
     ],
     "rpc": [
