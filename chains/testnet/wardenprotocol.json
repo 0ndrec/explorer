@@ -1,10 +1,10 @@
 {
     "chain_name": "warden",
     "api": [
-        "https://api-wardenprotocol.onchain.run"
+        "https://api.buenavista.wardenprotocol.org","https://api-wardenprotocol.onchain.run"
     ],
     "rpc": [
-        "https://rpc-wardenprotocol.onchain.run"
+        "https://rpc.buenavista.wardenprotocol.org","https://rpc-wardenprotocol.onchain.run"
     ],
     "coin_type": "118",
     "sdk_version": "0.46.11",
