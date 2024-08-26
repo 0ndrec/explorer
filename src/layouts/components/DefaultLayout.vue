@@ -80,7 +80,7 @@ dayjs()
     >
       <div class="flex justify-between mt-1 py-4 mb-1" style="justify-content: center;">
         <RouterLink to="/" class="flex items-center">
-          <img class="logo-top-main" style="padding-inline: 20px;" src="../../assets/logo.svg" />
+          <img class="logo-top-main" style="padding-inline: 20px; filter: brightness(0) saturate(100%) invert(32%) sepia(69%) saturate(3631%) hue-rotate(224deg) brightness(91%) contrast(99%);" src="../../assets/logo.svg" />
   
         </RouterLink>
         <div
