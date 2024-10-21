@@ -3,6 +3,7 @@
     "api": [
         "https://allora-testnet-1-api.testnet.nodium.xyz",
 "https://sentries-api.testnet-1.testnet.allora.network/",
+        "https://testnet-allora-rest.rhino-apis.com/",
         "https://allora-api.testnet-1.testnet.allora.network"
     ],
     "rpc": [
